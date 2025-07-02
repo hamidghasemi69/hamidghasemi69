@@ -11,7 +11,7 @@ My work spans applied machine learning, automation, cloud architecture, and ment
 - 🔭 I’m currently working on developing and deploying machine learning models using AWS cloud resources and serverless infrastructure  
 - 🌱 I’m currently learning about large language models (LLMs) and agentic AI systems  
 - 👯 I’m looking to collaborate on production-grade ML pipelines and generative AI applications  
-- 💬 Ask me about MLOps, inference orchestration, Metaflow, or AWS Chatbot integration
+- 💬 Ask me about AI (Machine Learning & Deep Learning), Natural Language Processing, MLOps
 - 🏅 I hold **3x AWS Certifications**:  
   **AWS Machine Learning Specialty**, **AWS Cloud Practitioner**, and **AWS AI Practitioner**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamid-ghasemi-phd-4729b065) | [Personal Website](https://hamidghasemi69.github.io/) | [Email](mailto:hamidghasemi69@gmail.com)  
