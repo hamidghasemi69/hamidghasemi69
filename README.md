@@ -28,19 +28,19 @@ Natural Language Processing (NLP) • Signal & Image Processing • Optimization
 
 ## 🧠 Technical Skills
 
-**Mathematics:**  
+- **Mathematics:**  
 Mathematical modeling, statistical inference, and data analysis
 
-**Programming Languages:**  
+- **Programming Languages:**  
 Python, MATLAB, R, C/C++, Java, SQL, object-oriented programming
 
-**Frameworks & Tools:**  
+- **Frameworks & Tools:**  
 PyTorch, TensorFlow, Keras, NLTK, Metaflow, Spark
 
-**DevOps & Cloud:**  
+- **DevOps & Cloud:**  
 Docker, Jenkins, HPC Clusters, AWS, Git
 
-**Soft Skills:**  
+- **Soft Skills:**  
 Critical thinking, problem-solving, mentoring (Postdoc experience), teamwork
 
 ---
