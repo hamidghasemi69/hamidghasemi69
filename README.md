@@ -61,13 +61,34 @@ Slides and videos are on [my website](https://hamidghasemi69.github.io/#talks).
 
 ### 🏅 Certifications
 
-| Cloud & AI | Generative AI & LLMs | Deep learning & software |
-|---|---|---|
-| AWS Certified Machine Learning – Specialty | NVIDIA-Certified Associate: Generative AI/LLMs | Udacity: Natural Language Processing |
-| AWS Certified AI Practitioner | Johns Hopkins: Applied Generative AI | Udacity: Computer Vision |
-| AWS Certified Cloud Practitioner | Udacity: LLMs & Text Generation | Udacity: Deep Learning |
-| | Coursera: Generative AI with LLMs | Coursera: Software Engineering Essentials |
-| | | ASU: Data Structures and Algorithms |
+**☁️ Cloud & ML**
+
+<p>
+  <a href="https://www.credly.com/badges/a770f74d-43df-4e3b-9d7e-1995fd0e34ba/public_url"><img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS: Machine Learning Specialty"></a>
+  <a href="https://www.credly.com/badges/e73583bf-4840-406b-a227-119e805dc626/public_url"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS: AI Practitioner"></a>
+  <a href="https://www.credly.com/badges/b614a0d4-334f-4820-b5c7-f4dfdd258c1a/public_url"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS: Cloud Practitioner"></a>
+</p>
+
+**🤖 Generative AI & LLMs**
+
+<p>
+  <a href="https://www.credly.com/badges/ce031d62-e17c-4e2a-b845-bbaeda8dc940"><img src="https://img.shields.io/badge/NVIDIA-Generative%20AI%20%26%20LLMs%20Associate-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1A1A1A" alt="NVIDIA: Generative AI & LLMs Associate"></a>
+  <img src="https://img.shields.io/badge/Johns%20Hopkins-Applied%20Generative%20AI-002D72?style=for-the-badge&logo=academia&logoColor=white&labelColor=68ACE5" alt="Johns Hopkins: Applied Generative AI">
+  <a href="https://www.udacity.com/certificate/e/bf7ca964-0989-11ef-b211-73d2c4f36a70"><img src="https://img.shields.io/badge/Udacity-LLMs%20%26%20Text%20Generation-02B3E4?style=for-the-badge&logo=udacity&logoColor=white&labelColor=1A1A1A" alt="Udacity: LLMs & Text Generation"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/YHYB8N5MT5LN"><img src="https://img.shields.io/badge/Coursera-Generative%20AI%20with%20LLMs-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1A1A1A" alt="Coursera: Generative AI with LLMs"></a>
+</p>
+
+**🧠 Deep learning & software**
+
+<p>
+  <a href="https://graduation.udacity.com/confirm/e/b17b6fe0-3450-11ed-9d86-6b60d01a3969"><img src="https://img.shields.io/badge/Udacity-Natural%20Language%20Processing-02B3E4?style=for-the-badge&logo=udacity&logoColor=white&labelColor=1A1A1A" alt="Udacity: Natural Language Processing"></a>
+  <a href="https://graduation.udacity.com/confirm/SATMTMWF"><img src="https://img.shields.io/badge/Udacity-Computer%20Vision-02B3E4?style=for-the-badge&logo=udacity&logoColor=white&labelColor=1A1A1A" alt="Udacity: Computer Vision"></a>
+  <a href="https://graduation.udacity.com/confirm/e/818fa8fc-548d-11ed-8ebc-9bf2a0d6cc96"><img src="https://img.shields.io/badge/Udacity-Deep%20Learning-02B3E4?style=for-the-badge&logo=udacity&logoColor=white&labelColor=1A1A1A" alt="Udacity: Deep Learning"></a>
+  <a href="https://www.credly.com/badges/a9bdedb9-eb29-4401-8734-3387ddb554ab"><img src="https://img.shields.io/badge/Coursera-Software%20Engineering%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1A1A1A" alt="Coursera: Software Engineering Essentials"></a>
+  <a href="https://badgr.com/public/assertions/CbcIbKXHTjGWua4-vwESXg"><img src="https://img.shields.io/badge/ASU-Data%20Structures%20%26%20Algorithms-8C1D40?style=for-the-badge&logo=&logoColor=white&labelColor=FFC627" alt="ASU: Data Structures & Algorithms"></a>
+</p>
+
+<sub>Click any badge to verify the credential.</sub>
 
 ---
 
