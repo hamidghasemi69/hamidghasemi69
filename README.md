@@ -24,17 +24,6 @@
 
 ---
 
-### 📌 Featured projects
-
-| Project | What it is |
-|---|---|
-| **[phdata-mle-project](https://github.com/hamidghasemi69/phdata-mle-project)** | Production-ready FastAPI service for home price estimation. KNN imputation for missing fields, batch scoring, input validation and tests, and a **5.6× throughput gain** (62 → 348 requests/s). Docker, pytest, benchmark scripts. |
-| **[stepwise-confidence-attribution](https://github.com/hamidghasemi69/stepwise-confidence-attribution)** | Step-wise confidence scores for LLM reasoning. Each response is parsed into a reasoning graph and every step is scored with two Information-Bottleneck methods (NIBS, GIBS) against P(True) and white-box baselines on GSM8K and MoreHopQA. |
-| **[JH-Final-Poroject](https://github.com/hamidghasemi69/JH-Final-Poroject)** | Final project for the Johns Hopkins **Applied Generative AI** certificate program. |
-| **[hamidghasemi69.github.io](https://github.com/hamidghasemi69/hamidghasemi69.github.io)** | My personal website: experience, talks, certifications and travel. |
-
----
-
 ### 🛠️ Tech stack
 
 **ML & data science:** Python · scikit-learn · XGBoost · SHAP · PyTorch · TensorFlow · Keras · pandas · NumPy · SQL · R
