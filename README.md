@@ -1,62 +1,85 @@
-# 👋 About Me
+<h1 align="center">Hi, I'm Hamidreza Ghasemi 👋</h1>
 
-I’m Hamid Ghasemi, a Principal Data Scientist and Machine Learning Engineer with a strong foundation in mathematical modeling and statistical inference. I specialize in building scalable machine learning systems, with hands-on experience deploying end-to-end inference pipelines on AWS using Step Functions, Lambda, and other serverless tools.
+<p align="center">
+  <b>Principal Data Scientist @ Arizona State University</b><br>
+  I build machine learning systems end to end, from model development to production deployment on AWS.
+</p>
 
-My work spans applied machine learning, automation, cloud architecture, and mentoring teams on ML best practices and production-ready design. I enjoy working at the intersection of research and engineering, translating insights into real-world impact.
-
----
-
-## 🔍 Quick Facts
-
-- 🔭 I’m currently working on developing and deploying machine learning models using AWS cloud resources and serverless infrastructure  
-- 🌱 I’m currently learning about large language models (LLMs) and agentic AI systems  
-- 👯 I’m looking to collaborate on production-grade ML pipelines and generative AI applications  
-- 💬 Ask me about AI (Machine Learning & Deep Learning), Natural Language Processing, MLOps
-- 🏅 I hold **3x AWS Certifications**:  
-  **AWS Machine Learning Specialty**, **AWS Cloud Practitioner**, and **AWS AI Practitioner**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamid-ghasemi-phd-4729b065) | [Personal Website](https://hamidghasemi69.github.io/) | [Email](mailto:hamidghasemi69@gmail.com)  
-- 😄 Pronouns: He/Him
+<p align="center">
+  <a href="https://hamidghasemi69.github.io"><img src="https://img.shields.io/badge/Website-hamidghasemi69.github.io-2ee6c5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/hamidghasemi69/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=aNTQ-U4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="mailto:hamidghasemi69@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-5b8cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🔬 Research Interests
+### 🚀 What I do
 
-Artificial Intelligence • Large Language Models (LLMs) • Machine Learning (Statistical & Scientific) • Deep Learning  
-Natural Language Processing (NLP) • Signal & Image Processing • Optimization • Applied Statistics
-
----
-
-## 🧠 Technical Skills
-
-- **Mathematics:**  
-Mathematical modeling, statistical inference, and data analysis
-
-- **Programming Languages:**  
-Python, MATLAB, R, C/C++, Java, SQL, object-oriented programming
-
-- **Frameworks & Tools:**  
-PyTorch, TensorFlow, Keras, NLTK, Metaflow, Spark
-
-- **DevOps & Cloud:**  
-Docker, Jenkins, HPC Clusters, AWS, Git
-
-- **Soft Skills:**  
-Critical thinking, problem-solving, mentoring (Postdoc experience), teamwork
+- 🎓 Lead data science and ML work at **Arizona State University**, including a daily **XGBoost + SHAP** persistence model that supports proactive outreach to **100,000+ students**
+- 🤖 Built an **LLM / RAG** assistant on AWS (Bedrock, OpenSearch, Step Functions, Lambda) that helps academic advisors reach students who need support
+- ⚙️ Build **MLOps** pipelines that cut deployment time from hours to minutes, with 99% pipeline reliability
+- 📚 Ph.D. in Electrical Engineering, with a background in statistical inference, signal processing and optimization
+- 🌱 Currently exploring **agentic AI** and **LLM reasoning and confidence estimation**
 
 ---
 
-## 🎓 Certifications
+### 📌 Featured projects
 
-- [LLMs & Text Generation (Udacity)](https://www.udacity.com/certificate/e/bf7ca964-0989-11ef-b211-73d2c4f36a70) — Certificate earned through Udacity’s AI Nanodegree program  
-- [Generative AI with LLMs (Coursera)](https://www.coursera.org/account/accomplishments/verify/YHYB8N5MT5LN) — Certificate earned via Coursera  
-- [Natural Language Processing (Udacity)](https://graduation.udacity.com/confirm/e/b17b6fe0-3450-11ed-9d86-6b60d01a3969) — Certificate earned via Udacity  
-- [Computer Vision (Udacity)](https://graduation.udacity.com/confirm/SATMTMWF) — Certificate earned via Udacity  
-- [Deep Learning (Udacity)](https://graduation.udacity.com/confirm/e/818fa8fc-548d-11ed-8ebc-9bf2a0d6cc96) — Certificate earned via Udacity  
-- [AWS Machine Learning Specialty](https://www.credly.com/badges/a770f74d-43df-4e3b-9d7e-1995fd0e34ba/public_url) — AWS Certification  
-- [AWS Cloud Practitioner](https://www.credly.com/badges/b614a0d4-334f-4820-b5c7-f4dfdd258c1a/public_url) — AWS Certification  
-- [AWS AI Practitioner](https://www.credly.com/badges/e73583bf-4840-406b-a227-119e805dc626/public_url) — AWS Certification  
-- [Software Engineering Essentials (Coursera)](https://www.credly.com/badges/a9bdedb9-eb29-4401-8734-3387ddb554ab) — Certificate earned via Coursera
+| Project | What it is |
+|---|---|
+| **[phdata-mle-project](https://github.com/hamidghasemi69/phdata-mle-project)** | Production-ready FastAPI service for home price estimation. KNN imputation for missing fields, batch scoring, input validation and tests, and a **5.6× throughput gain** (62 → 348 requests/s). Docker, pytest, benchmark scripts. |
+| **[stepwise-confidence-attribution](https://github.com/hamidghasemi69/stepwise-confidence-attribution)** | Step-wise confidence scores for LLM reasoning. Each response is parsed into a reasoning graph and every step is scored with two Information-Bottleneck methods (NIBS, GIBS) against P(True) and white-box baselines on GSM8K and MoreHopQA. |
+| **[JH-Final-Poroject](https://github.com/hamidghasemi69/JH-Final-Poroject)** | Final project for the Johns Hopkins **Applied Generative AI** certificate program. |
+| **[hamidghasemi69.github.io](https://github.com/hamidghasemi69/hamidghasemi69.github.io)** | My personal website: experience, talks, certifications and travel. |
 
 ---
 
-*“Turning data into decisions, and models into measurable outcomes.”*
+### 🛠️ Tech stack
+
+**ML & data science:** Python · scikit-learn · XGBoost · SHAP · PyTorch · TensorFlow · Keras · pandas · NumPy · SQL · R
+
+**Generative AI:** LLMs · RAG · Amazon Bedrock · OpenSearch · Hugging Face · vLLM
+
+**MLOps & cloud:** AWS (SageMaker, Step Functions, Lambda, S3) · Metaflow · Airflow · Docker · Terraform · Jenkins · FastAPI · Git
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+</p>
+
+---
+
+### 🎤 Talks
+
+- **Cracking XGBoost: The Go-To Machine Learning Algorithm for Structured Data**, ASU Data Conference, 2025
+- **Transformers: Revolutionary Deep Learning Architectures**, ASU Data Conference, 2024
+- **An Introduction to Generative AI**, ASU Data Conference, 2023
+- **An Introduction to Deep Learning**, ASU Data Conference, 2022
+- **Predicting Persistence Using Machine Learning: From Model Development to Deployment**, AIR Forum, 2022
+
+Slides and videos are on [my website](https://hamidghasemi69.github.io/#talks).
+
+---
+
+### 🏅 Certifications
+
+| Cloud & AI | Generative AI & LLMs | Deep learning & software |
+|---|---|---|
+| AWS Certified Machine Learning – Specialty | NVIDIA-Certified Associate: Generative AI/LLMs | Udacity: Natural Language Processing |
+| AWS Certified AI Practitioner | Johns Hopkins: Applied Generative AI | Udacity: Computer Vision |
+| AWS Certified Cloud Practitioner | Udacity: LLMs & Text Generation | Udacity: Deep Learning |
+| | Coursera: Generative AI with LLMs | Coursera: Software Engineering Essentials |
+| | | ASU: Data Structures and Algorithms |
+
+---
+
+<p align="center"><i>Turning data into decisions, and models into measurable outcomes.</i></p>
